@@ -1,7 +1,7 @@
 # 100DaysofCode
 **Coding challenge for 100 days in PYTHON** 
 
-1.[Day001](Day001.md)
+1.[Day001](Day001.md) 
 
 2.[Day002](Day002.md)
 
@@ -32,3 +32,10 @@
 15.[Day015](Day015.md)
 
 16.[Day016](Day016.md)
+
+17.[Day017](Day017.md)
+
+18.[Day018](Day018.md) 
+
+19.[Day019](Day019.md) 
+
